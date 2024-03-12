@@ -1,3 +1,5 @@
+![zy4knlgc-Drpg_Challenges_15thmarch_banner](https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/dbc4e80c-dfa8-4be7-b578-c70b124b7e4e)
+
 # PROBLEM STATEMENT- 3	
 
 ## Evaluate And Optimize An Existing Open-Source Speech-To-Text Transcription Tool For Accurately Converting Feedback Calls Related To Citizen Grievances Into English Text. The Goal Is To Benchmark The Tool's Performance And Implement Enhancements To Achieve Measurable Improvements In Transcription Accuracy For Calls In Hindi, English, And Hinglish. This Project Does Not Involve Creating A New System But Rather Focuses On Refining An Already Established Open-Source Solution.
@@ -243,3 +245,4 @@ We would like to express our sincere gratitude to the Department of Administrati
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+![image](https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/ab8fd812-02a4-4eb7-af43-e4a14333e058)
