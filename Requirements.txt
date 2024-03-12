@@ -1,0 +1,3 @@
+1. pydub
+2. ffmpeg-python
+3. git+https://github.com/openai/whisper.git
