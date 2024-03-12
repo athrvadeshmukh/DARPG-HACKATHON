@@ -84,6 +84,7 @@ The Whisper package can be installed via pip using the following commands:
 - Bash: `pip install -U openai-whisper`
 - Windows: `pip install git+https://github.com/openai/whisper.git`
 - Additional dependencies such as ffmpeg and rust may need to be installed based on the system requirements.
+- To install all dependencies `pip install -r requirements.txt`
 
 ---
 
