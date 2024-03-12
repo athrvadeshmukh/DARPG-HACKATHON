@@ -235,7 +235,6 @@ We would like to express our sincere gratitude to the Department of Administrati
 - Whisper Documentation: [https://github.com/openai/whisper](https://github.com/openai/whisper)
 - OpenAI: [https://openai.com](https://openai.com)
 - Department of Administrative Reforms & Public Grievances (DARPG): [https://darpg.gov.in](https://darpg.gov.in)
-- Ministry of Personnel, Public Grievances & Pensions: [https://dopp.gov.in](https://dopp.gov.in)
 
 ---
 
