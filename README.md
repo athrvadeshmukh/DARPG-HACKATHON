@@ -240,6 +240,11 @@ We would like to express our sincere gratitude to the Department of Administrati
 
 ---
 
+## Project Report
+[Project Report](DARPG_45_Hackathon_Report.pdf)
+
+---
+
 ## References
 
 - Whisper Documentation: [https://github.com/openai/whisper](https://github.com/openai/whisper)
