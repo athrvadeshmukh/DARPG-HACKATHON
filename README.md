@@ -24,8 +24,7 @@
 ---
 ### Demo and Explanation Video
 
-
-https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/cac17401-b553-497c-a624-013b85641b2a
+https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/18f08482-c5b1-4022-ab61-4c3bcf978e08
 
 ---
 
