@@ -33,11 +33,17 @@ Online Hackathon on Data-driven Innovation for Citizen Grievance Redressal organ
 [Zero AI Speech-to-Text Transcription](https://github.com/athrvadeshmukh/DARPG-HACKATHON.git)
 
 ---
+# Output 
 
 ![image](https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/6bf67333-463f-4812-9190-8d11416bbe64)
 
 
 ![image](https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/c72184c1-af91-4cef-9733-c7d274772b51)
+
+---
+## Approach
+
+![Approach](https://raw.githubusercontent.com/openai/whisper/main/approach.png)
 
 
 ## Executive Summary
@@ -107,6 +113,8 @@ Whisper provides several model sizes optimized for different applications and la
 | large  | 1550 M     | N/A                | large              | ~10 GB        | 1x             |
 
 The performance of Whisper varies based on the language and model size. The .en models are optimized for English-only applications and tend to perform better, especially for smaller models.
+
+![WER breakdown by language](https://github.com/openai/whisper/assets/266841/f4619d66-1058-4005-8f67-a9d811b77c62)
 
 ---
 
