@@ -34,6 +34,12 @@ Online Hackathon on Data-driven Innovation for Citizen Grievance Redressal organ
 
 ---
 
+![image](https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/6bf67333-463f-4812-9190-8d11416bbe64)
+
+
+![image](https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/c72184c1-af91-4cef-9733-c7d274772b51)
+
+
 ## Executive Summary
 
 The project aims to evaluate and optimize an existing open-source speech-to-text transcription tool for accurately converting feedback calls related to citizen grievances into English text. The tool under consideration is ZeroAI.py, which utilizes the Whisper library for transcription tasks. The primary objective is to benchmark the tool's performance and implement enhancements to achieve measurable improvements in transcription accuracy for calls in Hindi, English, and Hinglish. The project does not entail creating a new system but rather focuses on refining an already established open-source solution.
@@ -220,6 +226,7 @@ if __name__ == "__main__":
 ```
 
 ---
+
 
 ## Conclusion
 
