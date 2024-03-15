@@ -33,7 +33,7 @@ Online Hackathon on Data-driven Innovation for Citizen Grievance Redressal organ
 [Zero AI Speech-to-Text Transcription](https://github.com/athrvadeshmukh/DARPG-HACKATHON.git)
 
 ---
-# Output 
+### Output 
 
 ![image](https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/6bf67333-463f-4812-9190-8d11416bbe64)
 
@@ -41,7 +41,7 @@ Online Hackathon on Data-driven Innovation for Citizen Grievance Redressal organ
 ![image](https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/c72184c1-af91-4cef-9733-c7d274772b51)
 
 ---
-## Approach
+### Approach
 
 ![Approach](https://raw.githubusercontent.com/openai/whisper/main/approach.png)
 
