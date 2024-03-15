@@ -40,6 +40,10 @@ Online Hackathon on Data-driven Innovation for Citizen Grievance Redressal organ
 
 ![image](https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/c72184c1-af91-4cef-9733-c7d274772b51)
 
+
+![image](https://github.com/athrvadeshmukh/DARPG-HACKATHON/assets/112002659/bccac9b7-ade4-4b7f-b5a4-808d3fcca29f)
+
+
 ---
 ### Approach
 
